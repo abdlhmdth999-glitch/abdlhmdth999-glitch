@@ -1,7 +1,7 @@
 👋 Merhaba, ben Abdulhamid  
 🎓 Mekatronik Mühendisiyim  
 🤖 Robotik ve Otomasyon  
-🛠 CNC Makineleri 
+🛠 CNC Makineleri
 🚀 Şu anda robot kolları ve akıllı otomasyon projeleri üzerinde çalışıyorum
 
 
