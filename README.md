@@ -1,4 +1,4 @@
-👋 Merhaba, ben Abdulhamid  
+👋 Merhaba, ben Abdulhamid 
 🎓 Mekatronik Mühendisiyim  
 🤖 Robotik ve Otomasyon  
 🛠 CNC Makineleri
